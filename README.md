@@ -6,3 +6,13 @@ For this project, I built an interactive dashboard to explore the Belly Button B
 
 ![](https://github.com/Houdini24/belly-button-challenge/blob/main/Belly%20Button%20Diversity%20Dashboard.png)
 
+### Acknowledgements
+I used the following resources to help complete this project:
+
+* AskBCS Learning Assistants
+* GitHub
+* UCB Coding Bootcamp GitLab
+* ChatGPT
+* Bootcamp Tutor David Chao
+* W3 Schools
+* Jupyter Notebook
